@@ -25,9 +25,12 @@ html {
 }
 
 .banner {
-
+  max-height: 24em;
+  position: relative;
 }
 
 .banner-content {
-
+  position: absolute;
+  bottom: 0;
+  color: white;
 }
